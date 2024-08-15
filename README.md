@@ -1,10 +1,6 @@
 ## Full Stack App
 
-<h1 align="center"> Explorer Lab #01 </h1>
-
-<p align="center">
-MERN React Admin Dashboard
-</p>
+<h1 align="center"> MERN React Admin Dashboard </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,18 +15,14 @@ MERN React Admin Dashboard
 
 <br>
 
-<p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Frontend: React.js com Redux Toolkit para gerenciamento de estado.
-Backend: Node.js com Express.js para a lógica do servidor e APIs.
-Banco de Dados: MongoDB para armazenamento de dados.
-Autenticação: JWT (JSON Web Tokens) para autenticação segura de usuários.
+- Frontend: React.js com Redux Toolkit para gerenciamento de estado.
+- Backend: Node.js com Express.js para a lógica do servidor e APIs.
+- Banco de Dados: MongoDB para armazenamento de dados.
+- Autenticação: JWT (JSON Web Tokens) para autenticação segura de usuários.
 
 ## 💻 Projeto
 
